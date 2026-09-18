@@ -1,4 +1,4 @@
-# pi-command-list-above
+# pi-show-command-list-above
 
 ## Overview
 
@@ -11,7 +11,7 @@ Requires a Pi version whose `CustomEditor` internals match this package. It patc
 ## Installation
 
 ```sh
-pi install npm:@yukikisaku/pi-command-list-above
+pi install npm:@yukikisaku/pi-show-command-list-above
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ No configuration.
 ## Uninstallation
 
 ```sh
-pi uninstall npm:@yukikisaku/pi-command-list-above
+pi uninstall npm:@yukikisaku/pi-show-command-list-above
 ```
 
 Remove any package-specific configuration described above if you no longer need it.

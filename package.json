@@ -1,5 +1,5 @@
 {
-  "name": "@yukikisaku/pi-command-list-above",
+  "name": "@yukikisaku/pi-show-command-list-above",
   "version": "0.1.0",
   "description": "Render Pi's slash-command autocomplete list above the editor.",
   "type": "module",
@@ -7,11 +7,11 @@
   "author": "yuki-kisaku",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yukikisaku/pi-command-list-above.git"
+    "url": "git+https://github.com/yukikisaku/pi-show-command-list-above.git"
   },
-  "homepage": "https://github.com/yukikisaku/pi-command-list-above#readme",
+  "homepage": "https://github.com/yukikisaku/pi-show-command-list-above#readme",
   "bugs": {
-    "url": "https://github.com/yukikisaku/pi-command-list-above/issues"
+    "url": "https://github.com/yukikisaku/pi-show-command-list-above/issues"
   },
   "keywords": [
     "pi-package",
